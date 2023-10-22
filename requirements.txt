@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+python-multipart
+pyjwt
+pymongo
+boto3
+numpy
+tensorflow
+pillow
