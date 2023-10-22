@@ -10,6 +10,7 @@ from io import BytesIO
 import tensorflow as tf
 import numpy as np
 import jwt
+from PIL import Image
 
 app.max_request_size = 1024 * 1024  * 1000
 app = FastAPI()
